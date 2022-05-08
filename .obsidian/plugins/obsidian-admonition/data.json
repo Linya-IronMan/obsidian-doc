@@ -1,0 +1,78 @@
+{
+  "userAdmonitions": {
+    "note": {
+      "type": "note",
+      "color": "44, 207, 32",
+      "icon": {
+        "name": "sticky-note",
+        "type": "font-awesome"
+      },
+      "command": true,
+      "title": "笔记",
+      "injectColor": true,
+      "noTitle": false,
+      "copy": true
+    },
+    "key": {
+      "type": "key",
+      "color": "240, 5, 5",
+      "icon": {
+        "name": "keycdn",
+        "type": "font-awesome"
+      },
+      "command": true,
+      "title": "重点",
+      "injectColor": true,
+      "noTitle": false,
+      "copy": true
+    },
+    "question": {
+      "type": "question",
+      "color": "31, 141, 209",
+      "icon": {
+        "name": "question",
+        "type": "font-awesome"
+      },
+      "command": true,
+      "title": " 问题",
+      "injectColor": true,
+      "noTitle": false,
+      "copy": true
+    },
+    "tip": {
+      "type": "tip",
+      "color": "208, 197, 37",
+      "icon": {
+        "name": "lightbulb",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "个人理解",
+      "injectColor": true,
+      "noTitle": false,
+      "copy": true
+    }
+  },
+  "syntaxHighlight": false,
+  "copyButton": true,
+  "version": "7.0.4",
+  "autoCollapse": true,
+  "defaultCollapseType": "open",
+  "syncLinks": true,
+  "injectColor": true,
+  "parseTitles": true,
+  "allowMSSyntax": true,
+  "msSyntaxIndented": true,
+  "livePreviewMS": true,
+  "dropShadow": true,
+  "hideEmpty": true,
+  "open": {
+    "admonitions": true,
+    "icons": true,
+    "other": true,
+    "advanced": false
+  },
+  "icons": [],
+  "useFontAwesome": true,
+  "rpgDownloadedOnce": false
+}

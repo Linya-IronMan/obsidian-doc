@@ -1,0 +1,179 @@
+{
+  "main": {
+    "id": "0d27f4104a46d772",
+    "type": "split",
+    "children": [
+      {
+        "id": "b98b6cc60819aa71",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Rust/Rust 学习.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2aeb748d521be082",
+    "type": "split",
+    "children": [
+      {
+        "id": "f3d52c4cae3de650",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4b743fc1ab0ef37c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "b34d2547da18a0c7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#task",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 224.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "3525b521b01783e8",
+    "type": "split",
+    "children": [
+      {
+        "id": "9fe1dd4bec6c0f87",
+        "type": "tabs",
+        "dimension": 62.70691333982473,
+        "children": [
+          {
+            "id": "97a4c33b532bfce3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Rust/Rust 学习.md"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "f0dfaaea4f5f0400",
+        "type": "tabs",
+        "dimension": 37.29308666017527,
+        "children": [
+          {
+            "id": "d7cd2e9158bfc516",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Rust/Rust 学习.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cc7e6c7a0770291b",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "9559b4027ee8593a",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "5ff2af9da3f5cea8",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "ba0038ebc297cb8e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a566f8d2ccfd5306",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Rust/Rust 学习.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "2f7a481449555cd9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Rust/Rust 学习.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "b98b6cc60819aa71",
+  "lastOpenFiles": [
+    "Rust/Rust 学习.md",
+    "未命名.md",
+    "202205050837.md",
+    "任务看板.md",
+    "任务看板.md",
+    "前端/Object 与 Map 的区别.md",
+    "前端/WebAssembly.md",
+    "看板 实验.md",
+    "未命名 1.md",
+    "未命名 2.md"
+  ]
+}

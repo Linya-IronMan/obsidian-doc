@@ -1,0 +1,19 @@
+{
+  "todoPageName": "todo\ntask",
+  "showChecked": false,
+  "autoRefresh": true,
+  "subGroups": false,
+  "groupBy": "page",
+  "sortDirectionItems": "new->old",
+  "sortDirectionGroups": "new->old",
+  "sortDirectionSubGroups": "new->old",
+  "includeFiles": "",
+  "lookAndFeel": "classic",
+  "_collapsedSections": [
+    "Rust/Rust 学习.md",
+    "前端/WebAssembly.md"
+  ],
+  "_hiddenTags": [
+    "todo"
+  ]
+}
